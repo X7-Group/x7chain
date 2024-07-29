@@ -28,7 +28,7 @@ import (
 	"github.com/X7-Group/x7chain/common"
 	"github.com/X7-Group/x7chain/core/rawdb"
 	"github.com/X7-Group/x7chain/core/types"
-	"github.com/X7-Group/x7chain/eth/protocols/x7c"
+	"github.com/X7-Group/x7chain/eth/protocols/eth"
 	"github.com/X7-Group/x7chain/log"
 )
 

@@ -36,7 +36,7 @@ import (
 	"github.com/X7-Group/x7chain/consensus"
 	"github.com/X7-Group/x7chain/core"
 	"github.com/X7-Group/x7chain/core/types"
-	ethproto "github.com/X7-Group/x7chain/eth/protocols/x7c"
+	ethproto "github.com/X7-Group/x7chain/eth/protocols/eth"
 	"github.com/X7-Group/x7chain/event"
 	"github.com/X7-Group/x7chain/log"
 	"github.com/X7-Group/x7chain/miner"

@@ -18,7 +18,7 @@ package x7c
 
 import (
 	"github.com/X7-Group/x7chain/eth/protocols/snap"
-	"github.com/X7-Group/x7chain/eth/protocols/x7c"
+	"github.com/X7-Group/x7chain/eth/protocols/eth"
 )
 
 // ethPeerInfo represents a short summary of the `x7c` sub-protocol metadata known

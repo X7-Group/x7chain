@@ -34,7 +34,7 @@ import (
 	"github.com/X7-Group/x7chain/core/types"
 	"github.com/X7-Group/x7chain/core/vm"
 	"github.com/X7-Group/x7chain/eth/protocols/snap"
-	"github.com/X7-Group/x7chain/eth/protocols/x7c"
+	"github.com/X7-Group/x7chain/eth/protocols/eth"
 	"github.com/X7-Group/x7chain/event"
 	"github.com/X7-Group/x7chain/log"
 	"github.com/X7-Group/x7chain/params"

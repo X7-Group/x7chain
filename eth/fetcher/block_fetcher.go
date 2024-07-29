@@ -26,7 +26,7 @@ import (
 	"github.com/X7-Group/x7chain/common/prque"
 	"github.com/X7-Group/x7chain/consensus"
 	"github.com/X7-Group/x7chain/core/types"
-	"github.com/X7-Group/x7chain/eth/protocols/x7c"
+	"github.com/X7-Group/x7chain/eth/protocols/eth"
 	"github.com/X7-Group/x7chain/log"
 	"github.com/X7-Group/x7chain/metrics"
 	"github.com/X7-Group/x7chain/trie"

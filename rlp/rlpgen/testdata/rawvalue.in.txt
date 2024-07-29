@@ -1,0 +1,11 @@
+// -*- mode: go -*-
+
+package test
+
+import "github.com/X7-Group/x7chain/rlp"
+
+type Test struct {
+	RawValue          rlp.RawValue
+	PointerToRawValue *rlp.RawValue
+	SliceOfRawValue   []rlp.RawValue
+}
